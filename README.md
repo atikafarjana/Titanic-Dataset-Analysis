@@ -33,7 +33,11 @@ Key features include PassengerId, Survived, Pclass, Sex, Age, SibSp, Parch, Fare
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+## Automated EDA Report
 
+An interactive HTML report generated using YData Profiling is available below.
+
+[View Titanic EDA Report](Titanic_EDA_Report.html)
 ## Analysis Performed
 
 ### 1. Data Exploration
